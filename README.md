@@ -1,5 +1,7 @@
 # To-Do List App
 
+My first dynamic website
+
 frontend: React + Material UI
 
 backend: Django, Django REST framework, Simple JWT
