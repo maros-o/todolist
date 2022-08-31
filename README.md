@@ -10,4 +10,4 @@ extension of this tutorial: https://youtu.be/xjMP0hspNLE
 
 # Usage
 
-You can register and make your own To-Do List at https://todolist-frontend.up.railway.app/
+You can register and make your own To-Do List at https://todolist-frontend-82yimegln-maros-o.vercel.app/
